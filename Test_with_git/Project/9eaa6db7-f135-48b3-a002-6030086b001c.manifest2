@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="Test_with_git" id="9eaa6db7-f135-48b3-a002-6030086b001c" trackingId="606bf62e-a7aa-4e51-8344-d2dfb2153a51" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="DBCon V2.00" />
+      <ApplicationFeature name="SetUnit NX102-1220 Ver. 1.36" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>
